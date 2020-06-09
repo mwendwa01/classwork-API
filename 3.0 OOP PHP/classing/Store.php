@@ -1,5 +1,8 @@
 <?php
+#start_here
+#do classes have access modifiers in php
 
+#packages
 namespace OOP\Classing;
 
 class Store{
